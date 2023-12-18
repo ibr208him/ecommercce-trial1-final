@@ -18,7 +18,7 @@ import SetPassword from "../Components/Web/ForgetPassword/SetPassword";
 import UserInfo from "../Components/Web/Profile/UserInfo.jsx";
 import UserContact from "../Components/Web/Profile/UserContact.jsx";
 import CreateOrder from "../Components/Web/Cart/CreateOrder.jsx";
-import GetOrder from "../Components/Web/Profile/getOrder.jsx";
+import GetOrder from "../Components/Web/Profile/GetOrder.jsx";
 import Products from "../Components/Web/Products/Products.jsx";
 import ProductShow from "../Components/Web/Products/ProductShow.jsx";
 
