@@ -1,0 +1,13 @@
+.addToCart{
+font-size: 25px;
+font-weight:600;
+text-decoration: none;
+color:rgb(185, 35, 37);
+background-color: bisque;
+padding:15px;
+}
+
+.subImageContainer{
+    width:200px;
+    height:200px;
+}
